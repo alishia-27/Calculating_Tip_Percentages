@@ -1,1 +1,2 @@
 # Calculating_Tip_Percentages
+I have written a code that will allow users to enter in their bill total (before tip), so that they can determine how much they will tip and what their amount total will be after tipping. This is an interactive program that will be integrated by embedding with Replit. Check back in to be able to use the interactive feature! For now, I have posted the raw code so that you can use it to play around with some numbers!
